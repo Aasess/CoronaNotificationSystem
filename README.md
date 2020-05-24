@@ -1,7 +1,7 @@
 # CoronaNotificationSystem
 <strong>why this project?</strong>
 I spend most of the time using my laptop during this lockdown period. I can only get to know about new cases whenever i am using social media.
-Keeping these things, I created a notification system that notifies you whenever any new case appears in Nepal. Now I can do my other projects or watch movies and get notified about new updates.
+Keeping these things, I created a notification system that notifies me whenever any new case appears in Nepal. Now I can do my other projects or watch movies and get notified about new updates.
 ![](images/demopic.png)
 # Requirements
 <p>beautifulsoup4	4.9.1</p>
