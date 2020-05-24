@@ -34,4 +34,4 @@ Keeping these things, I created a notification system that notifies me whenever 
  <br/>
  2.run firstjsonsaver.py(optional)
  <br/>
- 3.run NepalCoronaNotication.py 
+ 3.run NepalCoronaNotication.py (it runs infinity and notifies you if new cases appear).
