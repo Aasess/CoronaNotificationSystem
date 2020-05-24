@@ -26,7 +26,7 @@ Keeping these things, I created a notification system that notifies you whenever
  <strong>NepalCoronaNotification.py</strong> is the main program that notifies me whenever new updates are obtained.Also the logic for handling new case and updating old json file
  is done.
  
- #Run
+ # Run
  1.clone or download this project:"https://github.com/Aasess/CoronaNotificationSystem.git"
  <br/>
  2.run firstjsonsaver.py(optional)
