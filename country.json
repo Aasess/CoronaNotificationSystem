@@ -1,0 +1,387 @@
+{
+  "Banke": {
+    "Confirmed": "142",
+    "Death": "1",
+    "Recovered": "21"
+  },
+  "Parsa": {
+    "Confirmed": "91",
+    "Death": "0",
+    "Recovered": "3"
+  },
+  "Kapilvastu": {
+    "Confirmed": "77",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Rupandehi": {
+    "Confirmed": "37",
+    "Death": "0",
+    "Recovered": "1"
+  },
+  "Jhapa": {
+    "Confirmed": "36",
+    "Death": "0",
+    "Recovered": "2"
+  },
+  "Sarlahi": {
+    "Confirmed": "33",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Udayapur": {
+    "Confirmed": "33",
+    "Death": "0",
+    "Recovered": "23"
+  },
+  "Rautahat": {
+    "Confirmed": "22",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Bara": {
+    "Confirmed": "11",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Kathmandu": {
+    "Confirmed": "11",
+    "Death": "0",
+    "Recovered": "3"
+  },
+  "Dhanusa": {
+    "Confirmed": "9",
+    "Death": "0",
+    "Recovered": "1"
+  },
+  "Dhankuta": {
+    "Confirmed": "7",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Kailali": {
+    "Confirmed": "7",
+    "Death": "0",
+    "Recovered": "4"
+  },
+  "Chitwan": {
+    "Confirmed": "6",
+    "Death": "0",
+    "Recovered": "2"
+  },
+  "Nawalparasi West": {
+    "Confirmed": "6",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Baitadi": {
+    "Confirmed": "5",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Dang": {
+    "Confirmed": "5",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Morang": {
+    "Confirmed": "5",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Bhaktapur": {
+    "Confirmed": "4",
+    "Death": "0",
+    "Recovered": "2"
+  },
+  "Bardiya": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Dhading": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "1"
+  },
+  "Mahottari": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Makwanpur": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Sunsari": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Surkhet": {
+    "Confirmed": "3",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Baglung": {
+    "Confirmed": "2",
+    "Death": "0",
+    "Recovered": "2"
+  },
+  "Nawalparasi East": {
+    "Confirmed": "2",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Saptari": {
+    "Confirmed": "2",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Bhojpur": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "1"
+  },
+  "Dadeldhura": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Dailekh": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Gulmi": {
+    "Confirmed": "1",
+    "Death": "1",
+    "Recovered": "0"
+  },
+  "Kanchanpur": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "1"
+  },
+  "Kavrepalanchowk": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Khotang": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Lalitpur": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Lamjung": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Ramechhap": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Sindhuli": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Sindhupalchowk": {
+    "Confirmed": "1",
+    "Death": "1",
+    "Recovered": "0"
+  },
+  "Siraha": {
+    "Confirmed": "1",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Achham": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Arghakhanchi": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Bajhang": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Bajura": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Darchula": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Dolakha": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Dolpa": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Doti": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Gorkha": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Humla": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Illam": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Jajarkot": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Jumla": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Kalikot": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Kaski": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Manang": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Mugu": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Mustang": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Myagdi": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Nuwakot": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Okhaldhunga": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Palpa": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Panchthar": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Parbat": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Pyuthan": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Rasuwa": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Rolpa": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Rukum East": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Rukum West": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Salyan": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Sankhuwasabha": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Solukhumbu": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Syangja": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Tanahun": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Taplejung": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  },
+  "Terhathum": {
+    "Confirmed": "0",
+    "Death": "0",
+    "Recovered": "0"
+  }
+}
