@@ -1,4 +1,7 @@
 # CoronaNotificationSystem
+<strong>*pics of original image*</strong>
+![](images/sitetoparse.png)
+<br/><br/>
 <strong>why this project?</strong>
 I spend most of the time using my laptop during this lockdown period. I can only get to know about new cases whenever i am using social media.
 Keeping these things, I created a notification system that notifies me whenever any new case appears in Nepal. Now I can do my other projects or watch movies and get notified about new updates.
